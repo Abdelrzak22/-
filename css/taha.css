@@ -1,0 +1,22 @@
+.cont{
+    width: 100%;
+ 
+}
+
+.imge{
+text-align: center;
+display: block;
+   
+}
+.taha{
+    width: 100%;
+    display: block;
+   position: relative;
+   left: 43%; 
+}
+ul{
+    list-style-position: inside;
+}
+ul li a{
+    text-decoration: none;
+}
